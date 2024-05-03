@@ -1,2 +1,2 @@
 FROM gitpod/workspace-full-vnc
-SHELL ["/bin/bash", -c]
+SHELL ["/bin/bash", "-c"]
